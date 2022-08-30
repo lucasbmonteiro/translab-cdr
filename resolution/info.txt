@@ -1,1 +1,1 @@
-Codigo-fonte do módulo de resolução de conflitos.
+Fork do projeto contendo as principais classes para computar estados envolvidos na resolução de conflitos.
